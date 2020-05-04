@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1574441843 source:c:\users\33659\desktop\taf\c\my_perso\polygone\main.c
+	"polygone.h"
+	<math.h>
+
+1574451179 c:\users\33659\desktop\taf\c\my_perso\polygone\polygone.h
+
+1574451161 source:c:\users\33659\desktop\taf\c\my_perso\polygone\polygone.c
+	"polygone.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1585513939 source:c:\users\33659\desktop\taf\c\my_perso\polyg\polygone_vectorielle\polygone.c
+	"structure.h"
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+
+1575113419 c:\users\33659\desktop\taf\c\my_perso\polyg\polygone_vectorielle\structure.h
+
